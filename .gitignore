@@ -1,0 +1,4 @@
+*.zip
+*.iso
+*.box
+.vagrant
