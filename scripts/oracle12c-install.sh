@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 export ORACLE_HOSTNAME=oracle12c.localdomain
 export ORACLE_UNQNAME=orcl
 export ORACLE_BASE=/u01/app/oracle
